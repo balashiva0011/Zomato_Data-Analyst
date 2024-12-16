@@ -1,4 +1,4 @@
-# Zomato_Data-Analyst# Zomato Data Analysis Using Python
+# Zomato_Data-Analyst
 
 This project is an in-depth analysis of Zomato restaurant data using Python. The goal is to analyze and visualize restaurant data, including aspects like ratings, votes, cost, and other features, to uncover trends and insights from a real-world dataset.
 
